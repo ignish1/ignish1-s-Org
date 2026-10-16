@@ -1,0 +1,6 @@
+{
+  "name": "WhatsBot",
+  "description": "ChatBot y respuestas automáticas inteligentes para WhatsApp y WhatsApp Business con simulador interactivo y asistente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
